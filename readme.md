@@ -104,8 +104,8 @@ The output is as shown below.
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
-    <td class="tg-lboi">0.95</td>
-    <td class="tg-lboi">0.98</td>
+    <td class="tg-lboi">1.0</td>
+    <td class="tg-lboi">1.0</td>
   </tr>
   <tr>
     <td class="tg-lboi"><b>derived_metrics</b></td>
@@ -121,18 +121,18 @@ The output is as shown below.
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
-    <td class="tg-lboi">0.97</td>
-    <td class="tg-lboi">1.0</td>
-    <td class="tg-lboi">1.0</td>
+    <td class="tg-lboi">0.92</td>
+    <td class="tg-lboi">0.96</td>
+    <td class="tg-lboi">0.94</td>
   </tr>
   <tr>
     <td class="tg-lboi"><b>no_trend_compare</b></td>
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
-    <td class="tg-lboi">0.98</td>
+    <td class="tg-lboi">0.88</td>
     <td class="tg-lboi">1.0</td>
-    <td class="tg-lboi">0.99</td>
+    <td class="tg-lboi">0.93</td>
   </tr>
   <tr>
     <td class="tg-lboi"><b>simple_graphs</b></td>
@@ -140,8 +140,8 @@ The output is as shown below.
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
-    <td class="tg-lboi">1.0</td>
-    <td class="tg-lboi">1.0</td>
+    <td class="tg-lboi">0.50</td>
+    <td class="tg-lboi">0.67</td>
   </tr>
   <tr>
     <td class="tg-lboi"><b>Accuracy</b></td>
@@ -150,25 +150,25 @@ The output is as shown below.
     <td class="tg-lboi">0.98</td>
     <td class="tg-lboi"></td>
     <td class="tg-lboi"></td>
-    <td class="tg-lboi">0.99</td>
+    <td class="tg-lboi">0.97</td>
   </tr>
   <tr>
     <td class="tg-lboi"><b>macro average</b></td>
     <td class="tg-lboi">0.99</td>
     <td class="tg-lboi">0.97</td>
     <td class="tg-lboi">0.98</td>
-    <td class="tg-lboi">0.99</td>
-    <td class="tg-lboi">0.99</td>
-    <td class="tg-lboi">0.99</td>
+    <td class="tg-lboi">0.97</td>
+    <td class="tg-lboi">0.91</td>
+    <td class="tg-lboi">0.93</td>
   </tr>
   <tr>
     <td class="tg-lboi"><b>micro average</b></td>
     <td class="tg-lboi">0.98</td>
     <td class="tg-lboi">0.98</td>
     <td class="tg-lboi">0.98</td>
-    <td class="tg-lboi">0.99</td>
-    <td class="tg-lboi">0.99</td>
-    <td class="tg-lboi">0.99</td>
+    <td class="tg-lboi">0.98</td>
+    <td class="tg-lboi">0.97</td>
+    <td class="tg-lboi">0.97</td>
   </tr>
 </tbody>
 </table>
