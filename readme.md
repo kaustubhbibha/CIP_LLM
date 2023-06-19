@@ -70,7 +70,14 @@ The output is as shown below.
 ## **Performance Comparison**
 
 - **Intent Detection**
-
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:center;vertical-align:middle}
+</style>
 <table class="tg">
 <thead>
   <tr>
@@ -104,8 +111,8 @@ The output is as shown below.
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
-    <td class="tg-lboi">0.9</td>
     <td class="tg-lboi">0.95</td>
+    <td class="tg-lboi">0.98</td>
   </tr>
   <tr>
     <td class="tg-lboi"><b>derived_metrics</b></td>
@@ -121,18 +128,18 @@ The output is as shown below.
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
-    <td class="tg-lboi">0.92</td>
-    <td class="tg-lboi">0.96</td>
-    <td class="tg-lboi">0.94</td>
+    <td class="tg-lboi">0.97</td>
+    <td class="tg-lboi">1.0</td>
+    <td class="tg-lboi">1.0</td>
   </tr>
   <tr>
     <td class="tg-lboi"><b>no_trend_compare</b></td>
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
-    <td class="tg-lboi">0.88</td>
+    <td class="tg-lboi">0.98</td>
     <td class="tg-lboi">1.0</td>
-    <td class="tg-lboi">0.93</td>
+    <td class="tg-lboi">0.99</td>
   </tr>
   <tr>
     <td class="tg-lboi"><b>simple_graphs</b></td>
@@ -140,8 +147,8 @@ The output is as shown below.
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
     <td class="tg-lboi">1.0</td>
-    <td class="tg-lboi">0.5</td>
-    <td class="tg-lboi">0.67</td>
+    <td class="tg-lboi">1.0</td>
+    <td class="tg-lboi">1.0</td>
   </tr>
   <tr>
     <td class="tg-lboi"><b>Accuracy</b></td>
@@ -150,25 +157,25 @@ The output is as shown below.
     <td class="tg-lboi">0.98</td>
     <td class="tg-lboi"></td>
     <td class="tg-lboi"></td>
-    <td class="tg-lboi">0.97</td>
+    <td class="tg-lboi">0.99</td>
   </tr>
   <tr>
     <td class="tg-lboi"><b>macro average</b></td>
     <td class="tg-lboi">0.99</td>
     <td class="tg-lboi">0.97</td>
     <td class="tg-lboi">0.98</td>
-    <td class="tg-lboi">0.97</td>
-    <td class="tg-lboi">0.91</td>
-    <td class="tg-lboi">0.93</td>
+    <td class="tg-lboi">0.99</td>
+    <td class="tg-lboi">0.99</td>
+    <td class="tg-lboi">0.99</td>
   </tr>
   <tr>
     <td class="tg-lboi"><b>micro average</b></td>
     <td class="tg-lboi">0.98</td>
     <td class="tg-lboi">0.98</td>
     <td class="tg-lboi">0.98</td>
-    <td class="tg-lboi">0.98</td>
-    <td class="tg-lboi">0.97</td>
-    <td class="tg-lboi">0.97</td>
+    <td class="tg-lboi">0.99</td>
+    <td class="tg-lboi">0.99</td>
+    <td class="tg-lboi">0.99</td>
   </tr>
 </tbody>
 </table>
