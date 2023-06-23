@@ -173,3 +173,20 @@ The output is as shown below.
 </tbody>
 </table>
 
+## Sample Output
+
+```
+Model_Response('sales of markets across years')
+>>>  {'queryText': 'sales of markets across years',
+      'parameters': {'DisplayColumns': ['Year'],
+      'AggColumns': ['Market'],
+      'DerivedMetricsColumns': [],
+      'FilterColumns': [],
+      'forecast': [],
+      'function': [],
+      'mathematical_filter': [],
+      'n_rows': [],
+      'y_col': ['Gross Sales ($)'],
+      'date-period': []},
+      'intent': 'Aggregation'}
+```
